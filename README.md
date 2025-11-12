@@ -60,8 +60,8 @@ Projet réalisé par **[ALHER MATOU Abdallah]**
 
 ## Lien 
 
-- Repo Github : 
-- Page : 
+- Repo Github : https://github.com/Abdallah-Alher/Portfolio.git
+- Page : https://abdallah-alher.github.io/Portfolio/
 
 
 ![](./images/page_1.png)
