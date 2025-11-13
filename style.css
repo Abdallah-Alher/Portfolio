@@ -573,6 +573,7 @@ body {
   border-radius: 0.6rem;
   transition: 0.4s;
   box-shadow: 0 0 10px rgba(244, 152, 24, 0.6);
+  text-decoration: none;
 }
 
 .footer-iconTop a:hover {
