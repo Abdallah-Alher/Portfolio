@@ -49,13 +49,15 @@ Il présente le profil d’un développeur à travers une **page unique (One Pag
 
 ---
 
-## Structure du projet
+## Les dificultés rencontré :
+- Le maintien du lien Home dans la navbar en couleur orange
+- L'ajout du lien de map
+- L'animation du photo de profil
 
 ---
 
 ## Auteur
 Projet réalisé par **[ALHER MATOU Abdallah]**    
-
 ---
 
 ## Lien 
